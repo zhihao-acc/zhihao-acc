@@ -1,8 +1,8 @@
 # Hello there 👋
 
-* 🚁 Researching **world models & Vision-and-Language Navigation (VLN)** for aerial robotics and drones.
-* 🧠 Building **zero-shot & latent-representation backbone training models** for drones (e.g. `vln-ego-drone`).
-* 🐾 Full-stack engineer on the **PawBae** team — designing interactive desktop pets and integrating & visualizing AI agents inside them.
+* 🚁 Researching **world models & VLN** for aerial robotics.
+* 🧠 Building **zero-shot & latent-representation backbone training models** for drones.
+* 🐾 Full-stack engineer on the **PawBae** team — designing interactive desktop pets and integrating & visualizing AI agents.
 * 🔍 Always digging through **open-source projects** on GitHub; very comfortable across the full GitHub workflow.
 * 🌱 A strong advocate for open-source collaboration and continuous learning of new technologies.
 
